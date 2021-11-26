@@ -1,12 +1,12 @@
-public interface InterfaceActionPeople {
-    public String sleep();
-    public String sit();
-    public String drink();
-    public String see();
-    public String getUp();
-    public String admire();
-    public String find();
-    public String eat();
-    public String wander();
-    public String search();
+public interface InterfaceActionPeople extends InterfaceNamePeople {
+    String sleep();
+    String sit();
+    String drink();
+    String see();
+    String getUp();
+    String admire();
+    String find();
+    String eat();
+    String wander();
+    String search();
 }
