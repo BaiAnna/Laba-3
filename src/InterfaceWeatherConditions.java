@@ -1,3 +1,3 @@
 public interface InterfaceWeatherConditions {
-    public String titleCondition();
+    String titleCondition();
 }
