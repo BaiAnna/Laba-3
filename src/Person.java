@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Person implements InterfaceActionPeople, InterfaceNamePeople {
+public class Person implements InterfaceActionPeople {
     private String name;
     @Override
     public String sleep(){
