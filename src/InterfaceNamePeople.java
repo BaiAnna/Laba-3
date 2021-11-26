@@ -1,4 +1,3 @@
 public interface InterfaceNamePeople {
-   public String getName();
-
+   String getName();
 }
